@@ -3,5 +3,7 @@ b=2
 c=a+b
 
 d=a*c
-print(d)
+
+f=d/a
+
 
