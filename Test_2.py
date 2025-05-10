@@ -12,3 +12,5 @@ print(d)
 print(c)
 r=23
 print(a+b)
+
+t=45
